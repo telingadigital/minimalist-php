@@ -1,0 +1,16 @@
+{
+	"scripts" : {
+		"dev" : "npm run development",
+		"development" : "",
+		"prod" : "npm run production",
+		"production" : ""
+	},
+	"devDependencies" : {
+		"axios" : "",
+		"cross-env" : "",
+		"laravel-mix" : "",
+		"lodash" : "",
+		"vue" : "",
+		""
+	}
+}
