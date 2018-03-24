@@ -1,12 +1,12 @@
 {
-    "name": "endrureza/timpleuk",
+    "name": "telingadigital/timpleuk",
     "description": "Simple Package For Basic PHP",
-    "keywords": ["endrureza","timpleuk"],
+    "keywords": ["telingadigital","timpleuk"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Endru Reza",
-            "email": "endrureza@gmail.com"
+            "name": "Telinga Digital",
+            "email": "dev@telingadigital.com"
         }
     ],
     "type": "library",
